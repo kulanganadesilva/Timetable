@@ -61,6 +61,8 @@ TimeTable
      <td>Presentation</td>
      <td>30minutes</td>
    <tr>
+    </table>
+    </center>
 <table align="center">
    <tr>
      <th>
